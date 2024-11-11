@@ -45,6 +45,12 @@
 <summary>GET YOUR SESSION_ID</summary>
 <a href="https://session.giftedtech.my.id"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
+<b>GET SESSION ID VIA PAIR CODE 01</b>
+
+<a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+
+
 - Session ID must start with **Gifted~** and is 15 characters in length.
 </details>
 
